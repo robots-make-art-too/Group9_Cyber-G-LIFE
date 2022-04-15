@@ -1,3 +1,3 @@
 # Group9_GoodDaysInDifferentTimes
 
-Wrong repo created by accident.
+phase 2 in gh-page branch

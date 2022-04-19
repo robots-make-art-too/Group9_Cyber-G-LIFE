@@ -1,6 +1,6 @@
 function getBotResponse(input) {
     //rock paper scissors
-    if (input == "cyble") {
+    if (input == "cyber") {
         return "Life!";
     } else if (input == "need") {
         return "peace, food, water";

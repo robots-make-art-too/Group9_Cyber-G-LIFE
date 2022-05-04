@@ -1,1 +1,0 @@
-some photo and video record our progress.
